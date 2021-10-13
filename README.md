@@ -3,12 +3,13 @@ Esri leaflet bug demo
 
 GH issue link: https://github.com/Esri/esri-leaflet-vector/issues/103
 
-As first thing set a valid Esri API key in `src/app.js`
+**IMPORTANT: Set a valid Esri API key in `src/app.js`** before trying the demo
 
 To run the demo simply clone this repo, then:
 
 ```shell
 cd path/to/esri-leaflet-bug-demo
+npm install
 npm start
 ```
 
